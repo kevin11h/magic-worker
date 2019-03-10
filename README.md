@@ -4,6 +4,7 @@
 2. Priest
 3. Prophet
 4. Philosopher
-5. Paladin
-6. Saint
-7. Angel
+5. Physician
+6. Paladin
+7. Saint
+8. Angel
